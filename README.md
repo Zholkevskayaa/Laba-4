@@ -7,3 +7,11 @@
 
 # Запуск
 Программа запускается в любой IDE для Python
+
+# Тест программы 
+Скриншоты выполнения программы для тестов: 328, 1103, 56501, 10000
+
+![Снимок экрана (53)](https://github.com/Zholkevskayaa/Laba-4/assets/163730600/3819711a-23ce-4101-894a-dd311899869e)
+![Снимок экрана (54)](https://github.com/Zholkevskayaa/Laba-4/assets/163730600/64fcef40-2c83-46a4-87ac-0caae065f17e)
+![Снимок экрана (55)](https://github.com/Zholkevskayaa/Laba-4/assets/163730600/af7675c2-c784-49a7-9d1f-31171fe706d2)
+![Снимок экрана (56)](https://github.com/Zholkevskayaa/Laba-4/assets/163730600/9b52d627-276f-4bd1-8f42-99641170def5)
